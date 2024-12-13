@@ -29,9 +29,9 @@
 <h2>My Family</h2>
 <table border="1">
 <tr>
-<th>Poenex Malinao</th>
+<th>Jenica Gutaya</th>
 <th>student</th>
-<th>21</th>
+<th>19</th>
 </tr>
 <tr>
 <td>Glory Gutaya</td>
