@@ -18,9 +18,7 @@
 
 <h2>My Hobbies</h2>
 <ul>
-<li>Rides</li>
 <li>Traveling</li>
-<li>Play sports</li>
 <li>Going to a place that can calm me</li>
 <li>Play online games</li>
 </ul>
